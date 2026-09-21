@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/recommendPlaces.ts": {
+      "maxDuration": 30
+    }
+  }
+}

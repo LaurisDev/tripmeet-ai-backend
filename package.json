@@ -1,0 +1,17 @@
+{
+  "name": "tripmeet-ai-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@google/genai": "^2.22.0"
+  },
+  "devDependencies": {
+    "@vercel/node": "latest",
+    "typescript": "latest",
+    "vercel": "latest"
+  }
+}
